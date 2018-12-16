@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Ubuntu');
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.text-grey{
+    color:#666;
+}
+
+.bg-eclipse{
+    background: white;
+
+}
+
+h1,h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.photo{
+    border-radius: 100%;
+    border : 3px #000 solid;
+}
+
+.cards{
+    background-color: rgba(141, 108, 121, 0.219);
+    padding: 1%;
+    border-radius: 1.04rem;
+}
